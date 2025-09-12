@@ -1,16 +1,7 @@
 {
   "botones": [
-    {
-      "id": "pendiente",
-      "nombre": "pendiente c13...."
-    },
-    {
-      "id": "adelantado",
-      "nombre": "campaña 12"
-    },
-    {
-      "id": "actual",
-      "nombre": "campaña 11"
-    }
+    { "nombre": "Catálogo pendiente" },
+    { "nombre": "Catálogo adelantado" },
+    { "nombre": "Catálogo actual" }
   ]
 }
