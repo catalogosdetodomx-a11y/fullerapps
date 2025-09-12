@@ -1,6 +1,8 @@
 {
-  "tema": "Catálogo Próximamente",
+  "titulo_boton": "Catálogo Pendiente",
+  "tema": "Próximamente",
   "total_paginas": 0,
-  "base_url": "",
-  "extension": ".webp"
+  "base_url": null,
+  "extension": null,
+  "mensaje": "Este catálogo aún no está disponible."
 }
