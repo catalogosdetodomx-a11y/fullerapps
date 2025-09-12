@@ -1,7 +1,7 @@
 {
-  "titulo_boton": "Catálogo Pendiente",
-  "tema": "Próximamente",
+  "tema": "Catálogo próximamente",
+  "titulo_boton": "Pendiente",
   "total_paginas": 0,
   "base_url": "",
-  "mensaje": "Catálogo próximamente"
+  "extension": ".webp"
 }
