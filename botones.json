@@ -1,0 +1,16 @@
+{
+  "botones": [
+    {
+      "id": "pendiente",
+      "nombre": "Pendiente"
+    },
+    {
+      "id": "adelantado",
+      "nombre": "Adelantado"
+    },
+    {
+      "id": "actual",
+      "nombre": "Actual"
+    }
+  ]
+}
