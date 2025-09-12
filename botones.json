@@ -1,7 +1,7 @@
 {
   "botones": [
     { "nombre": "Catálogo pendiente" },
-    { "nombre": "Catálogo adelantado" },
-    { "nombre": "Catálogo actual" }
+    { "nombre": "Campaña 12" },
+    { "nombre": "Campaña 11" }
   ]
 }
