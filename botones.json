@@ -5,12 +5,12 @@
       "nombre": "Pendiente"
     },
     {
-      "id": "campaña",
-      "nombre": "campaña 12"
+      "id": "adelantado",
+      "nombre": "Adelantado"
     },
     {
-      "id": "campaña2",
-      "nombre": "campaña 11"
+      "id": "actual",
+      "nombre": "Actual"
     }
   ]
 }
