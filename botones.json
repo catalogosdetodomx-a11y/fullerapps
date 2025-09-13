@@ -1,8 +1,9 @@
 {
   "version": "2025-09-13-1",
   "botones": [
-    {"nombre":"Campaña Pendiente","url":""},
+    {"nombre":"Campaña 13 en espera","url":""},
     {"nombre":"Campaña 12","url":"https://drive.google.com/file/d/1tlJOTeDkdChmF1DEC0nUd17P8RvNBat6/view?usp=sharing"},
     {"nombre":"Campaña 11","url":"https://drive.google.com/file/d/1tlJOTeDkdChmF1DEC0nUd17P8RvNBat6/view?usp=sharing"}
   ]
 }
+
