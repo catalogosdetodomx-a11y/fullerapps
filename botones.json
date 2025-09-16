@@ -1,24 +1,25 @@
 {
   "botones": [
     {
-      "nombre": "Pendiente",
+      "nombre": "campaña 15 pendiente",
       "url": "" 
     },
     {
-      "nombre": "Catálogo Adelantado",
+      "nombre": "Campaña 14",
+      "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub.json"
+    },
+    {
+      "nombre": "Campaña 13",
       "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub1.json"
     },
     {
-      "nombre": "Catálogo Actual",
+      "nombre": "Campaña 12",
       "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub2.json"
     },
     {
-      "nombre": "Catálogo Extra 1",
+      "nombre": "Campaña 11",
       "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub3.json"
-    },
-    {
-      "nombre": "Catálogo Extra 2",
-      "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub4.json"
     }
   ]
 }
+
