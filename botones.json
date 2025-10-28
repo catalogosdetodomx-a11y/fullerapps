@@ -1,12 +1,13 @@
 {
   "botones": [
-    { "nombre": "catalogo 16... Pendiente", "url": "" },
+    { "nombre": "catalogo 16 esta en pdf", "url": "" },
     { "nombre": "Catálogo 15", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub.json" },
     { "nombre": "Catálogo 14", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub1.json" },
     { "nombre": "Catálogo 13", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub2.json" },
     { "nombre": "Catálogo 12", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub3.json" }
   ]
 }
+
 
 
 
