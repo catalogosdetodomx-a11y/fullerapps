@@ -1,10 +1,10 @@
 {
   "botones": [
-    { "nombre": "catalogo 17 ESTA EN PDF...", "url": "" },
-    { "nombre": "Catálogo 16", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub.json" },
-    { "nombre": "Catálogo 15", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub1.json" },
-    { "nombre": "Catálogo 14", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub2.json" },
-    { "nombre": "Catálogo 13", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub3.json" }
+    { "nombre": "catalogo 18 PENDIENTE...", "url": "" },
+    { "nombre": "Catálogo 17", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub.json" },
+    { "nombre": "Catálogo 16", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub1.json" },
+    { "nombre": "Catálogo 15", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub2.json" },
+    { "nombre": "Catálogo 14", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub3.json" }
   ]
 }
 
