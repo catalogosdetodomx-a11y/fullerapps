@@ -1,4 +1,6 @@
 {
+  "contador": "https://api.countapi.xyz/hit/FULLERAPP/visitas",
+
   "botones": [
     { "nombre": "catalogo 19 PENDIENTE", "url": "" },
     { "nombre": "Catálogo 18", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub.json" },
@@ -7,10 +9,3 @@
     { "nombre": "Catálogo 15", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub3.json" }
   ]
 }
-
-
-
-
-
-
-
