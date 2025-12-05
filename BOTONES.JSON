@@ -1,5 +1,5 @@
 {
-  "contador": "https://api.countapi.xyz/hit/FULLERAPP/visitas",
+  "contador": "https://kvdb.io/EFx9J2x7HfJP9f5Wg6KjH3/visitas?increment=1",
 
   "botones": [
     { "nombre": "catalogo 19 PENDIENTE", "url": "" },
