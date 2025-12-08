@@ -2,10 +2,10 @@
   "contador": "https://script.google.com/macros/s/AKfycby2gUfJi_kLhPLV2LiihCx8O8kGHeuLVaudywLjI22Xagq1zirWMyeroPGX-pJoB9Hm/exec?hit=1",
 
   "botones": [
-    { "nombre": "ACXTUALIZAR APP", "url": "" },
-    { "nombre": "ACTUALIZAR APP", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub.json" },
-    { "nombre": "ACTUALIZAR APP", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub1.json" },
-    { "nombre": "ACTUALIZAR APP", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub2.json" },
+    { "nombre": "NUEVA ACTUALIZACION", "url": "" },
+    { "nombre": "ACTUALIZAR APP", "url": "" },
+    { "nombre": "ACTUALIZAR APP", "url": "" },
+    { "nombre": "ACTUALIZAR APP", "url": "" },
     { "nombre": "ACTUALIZAR APP", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub3.json" }
   ]
 }
