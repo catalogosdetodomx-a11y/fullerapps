@@ -1,10 +1,10 @@
 {
-  "title": "¡Feliz Navidad 2025!",
+  "title": "¡Feliz AÑO 2026!",
   "subtitle": "Catálogos FULLER • ",
   "message": "Los mejores catalogos para ver o descargar",
-  "background": "https://images.unsplash.com/photo-1607093637074-1b48d9e7e7c4?w=1920&h=1080&fit=crop&auto=format",
-  "snow": true,
+  "background": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17584570.png?v=2",
+  "snow": false,
   "music": true,
-  "musicUrl": "https://cdn.pixabay.com/audio/2025/11/19/audio_8a5dad516a.mp3",
+  "musicUrl": "https://cdn.pixabay.com/audio/2024/04/12/audio_3118cb3f2a.mp3",
   "volume": 0.15
 }
