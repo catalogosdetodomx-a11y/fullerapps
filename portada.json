@@ -2,7 +2,8 @@
   "title": "¡Fuller c24 PENDIENTE 2026!",
   "subtitle": "Catálogos FULLER • ",
   "message": "Los mejores catalogos para ver o descargar",
- 
+  "background": "",
+ "snow": false,
   "music": true,
   "musicUrl": "https://cdn.pixabay.com/audio/2024/04/12/audio_3118cb3f2a.mp3",
   "volume": 0.15
