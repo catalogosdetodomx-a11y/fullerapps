@@ -2,10 +2,10 @@
   "contador": "https://script.google.com/macros/s/AKfycby2gUfJi_kLhPLV2LiihCx8O8kGHeuLVaudywLjI22Xagq1zirWMyeroPGX-pJoB9Hm/exec?hit=1",
 
   "botones": [
-    { "nombre": "1 esta en pdf", "url": "" },
-    { "nombre": "Catálogo 26", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub.json" },
-    { "nombre": "Catálogo 25", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub1.json" },
-    { "nombre": "Catálogo 24", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub2.json" },
-    { "nombre": "Catálogo 23", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub3.json" }
+    { "nombre": "2  PENDIENTE", "url": "" },
+    { "nombre": "Catálogo 1", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub.json" },
+    { "nombre": "Catálogo 26", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub1.json" },
+    { "nombre": "Catálogo 25", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub2.json" },
+    { "nombre": "Catálogo 24", "url": "https://catalogosdetodomx-a11y.github.io/fullerapps/fub3.json" }
   ]
 }
